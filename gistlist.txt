@@ -1,1 +1,2 @@
 https://gist.github.com/zkayns/91f6b0272b488c41b6b0385aeef114b3 - ltbeef exploit.js
+https://gist.github.com/zkayns/bcce21f7cf56aefc856b4bd050b20f2e - unblocker list
